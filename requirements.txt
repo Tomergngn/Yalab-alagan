@@ -1,0 +1,6 @@
+pyautogui
+clipboard
+pyperclip
+Pillow
+customtkinter
+pywhatkit
